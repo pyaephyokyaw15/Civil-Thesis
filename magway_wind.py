@@ -16,6 +16,5 @@ for i in wind_speed:
 
 print(total)
 
-avreage = total // number;
-print(avregae)
-file.write()
+avreage = total // number
+print(avreage)
